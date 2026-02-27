@@ -1,0 +1,72 @@
+[2026-02-26 21:08:00.855] [info] Using configuration file /home/tanishq/.config/waybar/config
+[2026-02-26 21:08:00.855] [info] Including resource file: $HOME/.config/waybar/Modules
+[2026-02-26 21:08:00.856] [info] Including resource file: $HOME/.config/waybar/ModulesWorkspaces
+[2026-02-26 21:08:00.857] [info] Including resource file: $HOME/.config/waybar/ModulesCustom
+[2026-02-26 21:08:00.857] [info] Including resource file: $HOME/.config/waybar/ModulesGroups
+[2026-02-26 21:08:00.857] [info] Including resource file: $HOME/.config/waybar/UserModules
+[2026-02-26 21:08:00.860] [info] Discovered appearance 'dark'
+[2026-02-26 21:08:00.881] [info] Using CSS file /home/tanishq/.config/waybar/style.css
+[2026-02-26 21:08:00.891] [warning] Failed to open bar ipc connection: Socket path is empty
+[2026-02-26 21:08:00.896] [warning] 'swap-icon-label' must be a bool.
+[2026-02-26 21:08:00.896] [info] Hyprland IPC starting
+[2026-02-26 21:08:00.901] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 21:08:00.902] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-26 21:08:00.902] [info] Registering for Hyprland's 'windowtitlev2' events because a user-defined window rewrite rule uses the 'title' field.
+[2026-02-26 21:08:01.993] [warning] Can't create libevdev device: EINVAL Invalid argument
+[2026-02-26 21:08:02.170] [info] Found device AT Translated Set 2 keyboard at '/dev/input/event4'
+[2026-02-26 21:08:02.200] [info] Found device Sino Wealth USB Keyboard at '/dev/input/event3'
+[2026-02-26 21:08:02.306] [warning] Failed to open bar ipc connection: Socket path is empty
+[2026-02-26 21:08:02.314] [warning] 'swap-icon-label' must be a bool.
+[2026-02-26 21:08:02.325] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 21:08:02.325] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-26 21:08:02.325] [info] Registering for Hyprland's 'windowtitlev2' events because a user-defined window rewrite rule uses the 'title' field.
+[2026-02-26 21:08:02.736] [warning] Can't create libevdev device: EINVAL Invalid argument
+[2026-02-26 21:08:02.903] [info] Found device AT Translated Set 2 keyboard at '/dev/input/event4'
+[2026-02-26 21:08:02.926] [info] Found device Sino Wealth USB Keyboard at '/dev/input/event3'
+[2026-02-26 21:08:03.142] [error] Failed to query power-profiles-daemon via dbus: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2026-02-26 21:08:03.142] [error] Failed to query power-profiles-daemon via dbus: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+
+** (waybar:607297): WARNING **: 21:08:03.248: Status Notifier Item with bus name ':1.14' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-02-26 21:08:03.605] [info] Bar configured (width: 1350, height: 42) for output: eDP-1
+[2026-02-26 21:08:03.605] [info] Bar configured (width: 1350, height: 42) for output: VGA-1
+[2026-02-26 21:28:13.466] [info] Bar configured (width: 1351, height: 42) for output: VGA-1
+[2026-02-26 21:28:13.483] [info] Bar configured (width: 1354, height: 42) for output: VGA-1
+[2026-02-26 21:28:13.500] [info] Bar configured (width: 1357, height: 42) for output: VGA-1
+[2026-02-26 21:28:13.533] [info] Bar configured (width: 1350, height: 42) for output: VGA-1
+[2026-02-26 22:01:19.082] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-26 22:01:19.084] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 22:01:19.084] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-26 22:01:19.084] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-26 22:01:19.085] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 22:01:19.085] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-26 22:57:56.849] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-26 22:57:56.863] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 22:57:56.864] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-26 22:57:56.864] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-26 22:57:56.865] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 22:57:56.865] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-26 22:58:01.883] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-26 22:58:01.894] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 22:58:01.894] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-26 22:58:01.894] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-26 22:58:01.895] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 22:58:01.895] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-26 23:51:58.555] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-26 23:51:58.588] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 23:51:58.589] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-26 23:51:58.589] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-26 23:51:58.590] [info] Loading persistent workspaces from Waybar config
+[2026-02-26 23:51:58.590] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-27 00:46:30.417] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-27 00:46:30.426] [info] Loading persistent workspaces from Waybar config
+[2026-02-27 00:46:30.426] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-02-27 00:46:30.427] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-02-27 00:46:30.428] [info] Loading persistent workspaces from Waybar config
+[2026-02-27 00:46:30.428] [info] Loading persistent workspaces from Hyprland workspace rules
+Gdk-Message: 00:55:37.892: Error reading events from display: Connection reset by peer
+sed: couldn't flush stdout: Broken pipe
+sed: couldn't flush stdout: Broken pipe
+Audio thread exited unexpectedly. input/pulse.c: pa_simple_read() failed: Connection terminated
+
+Audio thread exited unexpectedly. input/pulse.c: pa_simple_read() failed: Connection terminated
+
